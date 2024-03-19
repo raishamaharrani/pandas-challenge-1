@@ -44,4 +44,12 @@
 ## Results
     In this exercise, we were able to use the data to find that the top three categories of products were, Consumables, Furniture & Software. 
     By adding new columns, Subtotal, Shipping price, Total price, Line cost, & Line profit, we were able to calculate the spend amount, total units purchased, total shipping price, total revenue & total profit for the top 5 clients.   
+
+
+## Resources used for this assignment 
+ - Tutor Support
+ - Xpert Chat  
+ - Peer Support 
+ - Class exercises
+ - Blackbox AI
             
